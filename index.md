@@ -1,15 +1,14 @@
 <div>
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="65%">
       <h1>柯璇</h1>
       <p><b>副教授</b></p>
       <p><b>东北石油大学地球科学学院</b></p>
       <p><b>邮箱：kexuan@nepu.edu.cn</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      <p><b>地址：黑龙江省大庆市高新技术产业开发区发展路184号，邮编163318</b></p>
     </td>
-    <td width="25%">
+    <td width="35%">
       <img src="/photos/me-little.jpg" width="100%">
     </td>
   </tr>
