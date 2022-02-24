@@ -14,22 +14,7 @@
   </tr>
 </table>
 </div>
-```markdown
-Syntax highlighted code block
 
-# 111
-## 222
-### 333
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-```
 ## 个人简介
 
 柯璇，男，汉族，1989年3月生，黑龙江省大庆市人，中共党员，博士（后）/副教授。
