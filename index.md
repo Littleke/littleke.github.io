@@ -32,16 +32,16 @@
 8. 基于深度学习的地震波场模拟方法研究，大庆市创新性指导项目，2020.01-2022.06,主持，在研.
 
 ### 代表性论文
-1.柯璇，石颖，王银凤.基于多倍角公式的一步波场外推法 [J]. 地球物理学报, 2021，64(7):4468-4479.
-2.**Xuan Ke**, Ying Shi，Weihong Wang. An efficient wavefield simulation and reconstruction method for least-squares reverse time migration [J]. Journal of Seismic Exploration, , 2018, 27(2):183-200.
-3.  **柯璇**, 石颖. 基于一步法波场延拓的正演模拟和逆时偏移成像 [J]. 地球物理学报, 2017，60(11):4468-4479.   
-4.** 柯璇**, 石颖, 张莹莹, 等. 地震叠前逆时偏移衰减随机边界条件研究 [J]. 石油物探, 2017,56(4):523-533.  
-5. **柯璇**, 石颖, 宋利伟, 等. 基于褶积完全匹配吸收边界的声波方程数值模拟 [J]. 石油物探, 2017，56(5):637-643.  
-6. **Xuan Ke**, Ying Shi . Selected-aperture imaging of walkaway VSP reverse time migration. [C] SEG 2018 Workshop: Reservoir Geophysics, Daqing, China, 5-7 August 2018. 2018.   
-7. **柯璇**, 石颖, 张伟, 等. 基于多线程多GPU并行加速的最小二乘逆时偏移算法 [J]. 石油物探, 2019, 058(001):88-102.  
-8. **柯璇**, 石颖, 刘诗竹. 地震资料逆时偏移中的图形处理器加速算法 [J]. 计算机系统应用, 2013, 22(011):115-118.  
-9. Ying Shi, Dongsheng Tian, **Xuan Ke**. Denoise Investigation on Prestack Reverse time Migration Based on GPU/CPU Collaborative Parallel Accelerating Computation [C]. International Conference on Computational & Information Sciences. IEEE Computer Society, 2013.  
-10. 宋利伟, 石颖, **柯璇**, 等. 变阶数有限差分法及逆时偏移有效边界存储最优化策略 [J]. 地球物理学进展, 2017, 032(006):2527-2532.  
+1. 柯璇，石颖，王银凤.基于多倍角公式的一步波场外推法 [J]. 地球物理学报, 2021，64(7):4468-4479.
+2. **Xuan Ke**, Ying Shi，Weihong Wang. An efficient wavefield simulation and reconstruction method for least-squares reverse time migration [J]. Journal of Seismic Exploration, , 2018, 27(2):183-200.
+3. **柯璇**, 石颖. 基于一步法波场延拓的正演模拟和逆时偏移成像 [J]. 地球物理学报, 2017，60(11):4468-4479.
+4. ** 柯璇**, 石颖, 张莹莹, 等. 地震叠前逆时偏移衰减随机边界条件研究 [J]. 石油物探, 2017,56(4):523-533.
+5. **柯璇**, 石颖, 宋利伟, 等. 基于褶积完全匹配吸收边界的声波方程数值模拟 [J]. 石油物探, 2017，56(5):637-643.
+6. **Xuan Ke**, Ying Shi . Selected-aperture imaging of walkaway VSP reverse time migration. [C] SEG 2018 Workshop: Reservoir Geophysics, Daqing, China, 5-7 August 2018.
+7. **柯璇**, 石颖, 张伟, 等. 基于多线程多GPU并行加速的最小二乘逆时偏移算法 [J]. 石油物探, 2019, 058(001):88-102.
+8. **柯璇**, 石颖, 刘诗竹. 地震资料逆时偏移中的图形处理器加速算法 [J]. 计算机系统应用, 2013, 22(011):115-118.
+9. Ying Shi, Dongsheng Tian, **Xuan Ke**. Denoise Investigation on Prestack Reverse time Migration Based on GPU/CPU Collaborative Parallel Accelerating Computation [C]. International Conference on Computational & Information Sciences. IEEE Computer Society, 2013.
+10. 宋利伟, 石颖, **柯璇**, 等. 变阶数有限差分法及逆时偏移有效边界存储最优化策略 [J]. 地球物理学进展, 2017, 032(006):2527-2532.
 
 ### 知识产权
 1. 发明专利，柯璇, 石颖, 王维红, 郭雪豹, 刘宗利, 刘伟. 地震数据非局部均值去噪方法.
@@ -57,35 +57,3 @@
 ### 招生方向
 1.硕士研究生(学硕)：“地球物理学”、“勘查技术与工程”、“数学”、“物理学”、“计算机”。
 2.硕士研究生(专硕)：“地质工程”。
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Littleke/kexuan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
