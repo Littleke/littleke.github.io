@@ -32,9 +32,9 @@
 8. 基于深度学习的地震波场模拟方法研究，大庆市创新性指导项目，2020.01-2022.06,主持，在研。
 
 ### 代表性论文
-1.柯璇，石颖，王银凤.基于多倍角公式的一步波场外推法 [J]. 地球物理学报, 2021，64(7):4468-4479.   
-2.  **Xuan Ke**, Ying Shi，Weihong Wang. An efficient wavefield simulation and reconstruction method for least-squares reverse time migration [J]. Journal of Seismic Exploration, , 2018, 27(2):183-200.  
-3. **柯璇**, 石颖. 基于一步法波场延拓的正演模拟和逆时偏移成像 [J]. 地球物理学报, 2017，60(11):4468-4479.   
+1.柯璇，石颖，王银凤.基于多倍角公式的一步波场外推法 [J]. 地球物理学报, 2021，64(7):4468-4479.
+2.**Xuan Ke**, Ying Shi，Weihong Wang. An efficient wavefield simulation and reconstruction method for least-squares reverse time migration [J]. Journal of Seismic Exploration, , 2018, 27(2):183-200.
+3.  **柯璇**, 石颖. 基于一步法波场延拓的正演模拟和逆时偏移成像 [J]. 地球物理学报, 2017，60(11):4468-4479.   
 4.** 柯璇**, 石颖, 张莹莹, 等. 地震叠前逆时偏移衰减随机边界条件研究 [J]. 石油物探, 2017,56(4):523-533.  
 5. **柯璇**, 石颖, 宋利伟, 等. 基于褶积完全匹配吸收边界的声波方程数值模拟 [J]. 石油物探, 2017，56(5):637-643.  
 6. **Xuan Ke**, Ying Shi . Selected-aperture imaging of walkaway VSP reverse time migration. [C] SEG 2018 Workshop: Reservoir Geophysics, Daqing, China, 5-7 August 2018. 2018.   
