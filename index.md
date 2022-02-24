@@ -31,11 +31,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-## Welcome to KeXuan's Homepage
+## 个人简介
 
-You can use the [editor on GitHub](https://github.com/Littleke/kexuan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+柯璇，男，汉族，1989年3月生，黑龙江省大庆市人，中共党员，博士（后）/副教授。
+主持国家自然科学基金项目1项，中国博士后基金1项，黑龙江省博士后基金1项，黑龙江省重点实验室开放基金1项，大庆市创新性指导项目1项，依托单位研究生创新基金项目2项。作为重要骨干参加国家自然科学基金项目3项，黑龙江省自然科学基金-杰出青年项目1项，黑龙江省自然科学基金-面上项目1项，大连理工大学国家重点实验室开放课题1项。以第一作者公开发表学术论文5篇，其中SCI期刊论文2篇，核心期刊论文2篇，申请发明专利3项。以第二作者发表学术论文5篇，其中EI检索1篇，核心期刊论文4篇，获国家授权发明专利5项，软件著作权1项。
 
 ### Markdown
 
