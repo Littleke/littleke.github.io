@@ -54,7 +54,7 @@
 4. [**柯璇**, 石颖. 基于一步法波场延拓的正演模拟和逆时偏移成像 [J]. 地球物理学报, 2017，60(11):4468-4479.](/files/SCI-地球物理学报-基于一步法波场延拓的正演模拟和逆时偏移成像.pdf)
 5. [**柯璇**, 石颖, 张莹莹, 等. 地震叠前逆时偏移衰减随机边界条件研究 [J]. 石油物探, 2017,56(4):523-533.](/files/统计源-石油物探-地震叠前逆时偏移衰减随机边界条件研究-正文.pdf)
 6. [**柯璇**, 石颖, 宋利伟, 等. 基于褶积完全匹配吸收边界的声波方程数值模拟 [J]. 石油物探, 2017，56(5):637-643.](/files/统计源-石油物探-基于褶积完全匹配吸收边界的声波方程数值模拟-正文.pdf)
-7. [**Xuan Ke**, Ying Shi . Selected-aperture imaging of walkaway VSP reverse time migration. [C] SEG 2018 Workshop: Reservoir Geophysics, Daqing, China, 5-7 August 2018.](/files/Selected-aperture imaging of walkaway VSP reverse time migration.pdf)
+7. [**Xuan Ke**, Ying Shi . Selected-aperture imaging of walkaway VSP reverse time migration. [C] SEG 2018 Workshop: Reservoir Geophysics, Daqing, China, 5-7 August 2018.](/files/Selected-aperture imaging of walkaway VSP reverse time migration.pdf )
 8. [**柯璇**, 石颖, 张伟, 等. 基于多线程多GPU并行加速的最小二乘逆时偏移算法 [J]. 石油物探, 2019, 058(001):88-102.](/files/基于多线程多GPU并行加速的最小二乘逆时偏移算法.pdf)
 9. [**柯璇**, 石颖, 刘诗竹. 地震资料逆时偏移中的图形处理器加速算法 [J]. 计算机系统应用, 2013, 22(011):115-118.](/files/地震资料逆时偏移中的图形处理器加速算法_柯璇.pdf)
 10. [Ying Shi, Dongsheng Tian, **Xuan Ke**. Denoise Investigation on Prestack Reverse time Migration Based on GPU/CPU Collaborative Parallel Accelerating Computation [C]. International Conference on Computational & Information Sciences. IEEE Computer Society, 2013.](/files/EI-2013-Denoise investigation on prestack reverse time migration based on GPUCPU collaborative parallel accelerating computation.pdf)
