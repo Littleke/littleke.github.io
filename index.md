@@ -48,7 +48,7 @@
 8. 基于深度学习的地震波场模拟方法研究，**大庆市创新性指导项目**，2020.01-2022.06,主持.
 
 ### 代表性论文
-1. [**Xuan Ke**，Ying Shi，Xiaofei Fu, et al. The n-th power Fourier spectrum analysis for the generalized seismic wavelets [J]. IEEE Transactions on geoscience and remote sensing, 2023，In press.](/files/The_n-th_Power_Fourier_Spectrum_Analysis_for_the_Generalized_Seismic_Wavelets.pdf)
+1. [**Xuan Ke**，Ying Shi，Xiaofei Fu, et al. The n-th power Fourier spectrum analysis for the generalized seismic wavelets [J]. IEEE Transactions on geoscience and remote sensing, 2023，61:1-10, Art no. 5904010, doi: 10.1109/TGRS.2023.3243184.](/files/The_nth_Power_Fourier_Spectrum_Analysis_for_the_Generalized_Seismic_Wavelets.pdf)
 2. [**柯璇**，石颖，王银凤.基于多倍角公式的一步波场外推法 [J]. 地球物理学报, 2021，64(7):4468-4479.](/files/基于多倍角公式的一步波场外推法.pdf)
 3. **Xuan Ke**, Ying Shi，Weihong Wang. An efficient wavefield simulation and reconstruction method for least-squares reverse time migration [J]. Journal of Seismic Exploration, 2018, 27(2):183-200.
 4. [**柯璇**, 石颖. 基于一步法波场延拓的正演模拟和逆时偏移成像 [J]. 地球物理学报, 2017，60(11):4468-4479.](/files/SCI-地球物理学报-基于一步法波场延拓的正演模拟和逆时偏移成像.pdf)
